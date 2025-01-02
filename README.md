@@ -1,0 +1,1 @@
+Clone the repo and delete the ".git" before you use it as a brand new.
